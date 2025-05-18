@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently learning **Node.js | Express.js | SQL | NOSQL**
 
-- 👨‍💻 All of my projects are available at [https://devsourav.netlify.com/](https://devsourav.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://www.devsourav.online/](https://www.devsourav.online/)
 
 - 📫 How to reach me **spathak7431@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wrvJ4eyCuAl5Jp35aDLj9f2RBSGk5gwT/view](https://drive.google.com/file/d/1wrvJ4eyCuAl5Jp35aDLj9f2RBSGk5gwT/view)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/drive/folders/10K6ZtQeY3RXx94pwTQo7KyM_Q28hiDTY)
 
-- ⚡ Fun fact **I will become Fullstack very soon 😏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
