@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sourav</h1>
-<h3 align="center">💻 Full Stack Developer | Tech Mentor | Turning Ideas into Scalable Realities</h3>
+<h3 align="center">💻 Full Stack Developer | 🧑‍🏫 Tech Mentor | 🏗️ Crafting Scalable Digital Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav0809&label=Profile%20views&color=0e75b6&style=flat" alt="sourav0809" />
